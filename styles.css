@@ -1,0 +1,15 @@
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: goldenrod
+
+}
+
+#scrambledeggspic {
+    height: 200px;
+    width: auto;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
